@@ -15,3 +15,4 @@ Collection item "date"&"price"
 2023-03-11	35.31
 2023-03-13	38.50
 }
+f**k
